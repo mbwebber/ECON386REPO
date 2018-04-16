@@ -1,13 +1,13 @@
 # Group 3 Codebook
 
-## *tidy2.txt* Variable Key
+## Variable Key for *tidy2.txt*, *tidy2_a.txt*, and *tidy2_b.txt*
 
 Variable Name | Definition
 ------------- | ----------
 Electricity | Daily average of electrical generation produced in MWh
 Year| Year of observation
 SO2 | Daily average of sulfur dioxide emitted in short tons
-NOx | Daily average of nitrous oxides emmitted in short tons
+NOx | Daily average of nitrous oxides emitted in short tons
 Capital | Capital stock measured in 2017 USD
 Employees | Number of employees 
 Coal_hc | Daily average heat content of coal in MWh
