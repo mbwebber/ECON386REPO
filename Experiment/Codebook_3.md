@@ -72,7 +72,7 @@ Oil_hc | Daily average heat content of oil in MWh
 Gas_hc | Daily average heat content of natural gas in MWh
 CAA | Dummy indicating if Phase I of CAA had been announced; equals 1 if the year is 1990 or later
 
-##Task 2 Data
+## Task 2 Data
 Data was retrieved from a 2006 study by Carl Pasurka on electrical production and pollutant emission. The study takes data from 92 plants between the years of 1985 and 1995 that is presented in a text file *Panel_8595.txt*.
 
 ## Task 2 Cleaning Process
